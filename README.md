@@ -1,14 +1,14 @@
 # Diamonds
 Exploring the world of diamonds💎
 
-INTRODUCTION
+### INTRODUCTION
 
 
-BUSINESS CASE
+#### BUSINESS CASE
 
-DATASETS USED
+#### DATASETS USED
 
-METHODOLOGIES
+#### METHODOLOGIES
 - Data Collection:
   
     Collect & compile data from flat files, web scraping, APIs & big data systems.
